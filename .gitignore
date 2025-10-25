@@ -25,10 +25,12 @@ Thumbs.db
 # Firebase
 google-services.json
 
-# Kotlin
-.kotlin/
+# Archivos generados por Android Studio
+*.json
+*.kt
+*.java
+*.class
 
-# Archivos temporales
+# Archivos de configuración temporales
 *.orig
 *.rej
-*.log
