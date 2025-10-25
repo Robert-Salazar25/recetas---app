@@ -1,5 +1,5 @@
 # 🍳 Recetas App - Android (Kotlin)
-### Junior Developer: [Tu Nombre] 📱 Platform: Android (Kotlin) | ⏳ Status: Beta
+### Junior Developer: Robert Salazar 📱 Platform: Android (Kotlin) | ⏳ Status: Beta
 
 A modern recipe app with real-time search, detailed cooking instructions, and ingredient management, designed with Clean Architecture and Jetpack Compose following development best practices.
 
